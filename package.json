@@ -1,0 +1,23 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "mini clone of my lab2 library",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G4BR13LJ/315lab2.git"
+  },
+  "keywords": [
+    "lab2",
+    "demo"
+  ],
+  "author": "Gabriel Jorand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G4BR13LJ/315lab2/issues"
+  },
+  "homepage": "https://github.com/G4BR13LJ/315lab2#readme"
+}
